@@ -1,5 +1,3 @@
-<?php //require_once '../private/shared/header.php'; 
-?>
 <!DOCTYPE html>
 <html lang="en" data-bs-theme="dark">
 
@@ -7,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Alamutu Mubarak | Full-Stack Developer</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap">
     <link rel="stylesheet" href="../bootstrap/dist/css/bootstrap.min.css">
     <style>
@@ -187,7 +186,7 @@
                         <a class="nav-link" href="#about">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#projects">Work</a>
+                        <a class="nav-link" href="#projects">Projects</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#contact">Connect</a>
@@ -263,8 +262,10 @@
                                 <p class="text-muted">Full-stack shopping solution with real-time inventory</p>
                                 <div class="d-flex flex-wrap">
                                     <span class="tech-badge">Next.js</span>
-                                    <span class="tech-badge">GraphQL</span>
-                                    <span class="tech-badge">Stripe</span>
+                                    <span class="tech-badge">MySQL</span>
+                                    <span class="tech-badge">Bootstrap</span>
+                                    <span class="tech-badge">Node.js</span>
+                                    <span class="tech-badge">React.js</span>
                                 </div>
                             </div>
                         </div>
@@ -298,7 +299,7 @@
 
                         <div class="mt-5">
                             <p class="text-muted">Prefer direct contact?
-                                <a href="mailto:contact@example.com" class="text-primary text-decoration-none">
+                                <a href="mailto:alamutumubarak01@gmail.com" class="text-primary text-decoration-none">
                                     Email me instead
                                 </a>
                             </p>
@@ -399,4 +400,5 @@
 </html>
 
 </html>
+
 </html>
